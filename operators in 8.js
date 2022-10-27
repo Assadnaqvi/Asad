@@ -1,0 +1,16 @@
+let a=4;
+let b=4;
+c=a+b;
+console.log(c);
+let a1=16;
+let b1=8;
+c1=a1-b1;
+console.log(c);
+let a2=16;
+let b2=2;
+c2=a2/b2;
+console.log(c);
+let a3=4;
+let b3=2;
+c3=a3*b3;
+console.log(c3);
