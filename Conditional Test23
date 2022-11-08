@@ -1,0 +1,105 @@
+let car="honda";
+
+if (car=="honda"){
+
+    console.log("if car=='honda',I pridict True");
+    
+    }else {
+    
+    console.log(car=="honda");
+    }
+ 
+ 
+  if (car!=="honda"){
+
+    console.log("if car=='honda',I pridict True");
+    
+    }else {
+    
+    console.log(car=="honda");
+    }
+    if (car!=="honda"){
+
+        console.log("if car=='honda',I pridict True");
+        
+        }else {
+        
+        console.log(car=="honda");
+        }
+        if (car!=="honda"){
+
+            console.log("if car=='honda',I pridict True");
+            
+            }else {
+            
+            console.log(car!=="honda");
+            }
+            
+    if (car!=="honda"){
+
+        console.log("if car=='honda',I pridict True");
+        
+        }else {
+        
+        console.log(car=="honda");
+        }
+        if (car!=="honda"){
+
+            console.log("if car=='honda',I pridict True");
+            
+            }else {
+            
+            console.log(car!=="honda");
+            }
+            
+    if (car!=="honda"){
+
+        console.log("if car=='honda',I pridict True");
+        
+        }else {
+        
+        console.log(car=="honda");
+        }
+        if (car!=="honda"){
+
+            console.log("if car=='honda',I pridict True");
+            
+            }else {
+            
+            console.log(car!=="honda");
+            }
+            
+    if (car!=="honda"){
+
+        console.log("if car=='honda',I pridict True");
+        
+        }else {
+        
+        console.log(car=="honda");
+        }
+        if (car!=="honda"){
+
+            console.log("if car=='honda',I pridict True");
+            
+            }else {
+            
+            console.log(car!=="honda");
+            }
+            
+    if (car!=="honda"){
+
+        console.log("if car=='honda',I pridict True");
+        
+        }else {
+        
+        console.log(car=="honda");
+        }
+        if (car!=="honda"){
+
+            console.log("if car=='honda',I pridict True");
+            
+            }else {
+            
+            console.log(car!=="honda");
+            }
+          
