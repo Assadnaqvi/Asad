@@ -1,0 +1,17 @@
+let guests=["Ali","Asad","Ejaz"];
+let guests1=["Hassan","Zawar","Mohsan"];
+let guestsNew=["Naqvi","Habib"];
+console.log(guestsNew);
+console.log(guests1);
+console.log(guests);
+let invitation="i would like to invite you at dinner ";
+console.log(invitation);
+console.log(invitation+guests[0]);
+console.log(invitation+guests[1]);
+console.log(invitation+guests[2]);
+console.log(invitation);
+console.log(invitation+guests1[0]);
+console.log(invitation+guests1[1]);
+console.log(invitation+guests1[2]);
+console.log(invitation+guestsNew[0]);
+console.log(invitation+guestsNew[1]);
